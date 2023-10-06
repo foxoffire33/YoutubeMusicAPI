@@ -16,7 +16,7 @@ export default async function handler(
 
         const api = new YTMUSIC(sessionInfo);
 
-        const searchTerm = req.query.query || "Armin van buuren";
+        const searchTerm = req.query.q || '';
         const searchType = req.query.type || "songs";
 
         const data = await api.search(searchTerm as string,{
