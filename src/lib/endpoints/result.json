@@ -1,0 +1,356 @@
+[
+  {
+    "type": "song",
+    "title": "Intense (feat. Miri Ben-Ari)",
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/oCI5CNSOxDDW6UEZs35g3hCBCnTKymPlYrESW1PfNsJuLLWR64j2LjG0I8u-TZxmxjw1hCE5g8I5e8PTpQ=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/oCI5CNSOxDDW6UEZs35g3hCBCnTKymPlYrESW1PfNsJuLLWR64j2LjG0I8u-TZxmxjw1hCE5g8I5e8PTpQ=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ],
+    "author": "Armin van Buuren",
+    "url": "https://music.youtube.com/watch?v=LoRzim8svTA&list=undefined",
+    "id": "LoRzim8svTA",
+    "album": "Intense",
+    "album_browse_id": "MPREb_jYlXc6uBkBP",
+    "duration": "8:48",
+    "artist_browse_id": "UCAeLFBCQS7FvI8PvBrWvSBg"
+  },
+  {
+    "type": "song",
+    "title": "Great Spirit (feat. Hilight Tribe)",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/7C1htv0HNro/hq720.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "author": "Vini Vici",
+    "url": "https://music.youtube.com/watch?v=7C1htv0HNro&list=undefined",
+    "id": "7C1htv0HNro",
+    "album": "Armin van Buuren",
+    "album_browse_id": "UCAeLFBCQS7FvI8PvBrWvSBg",
+    "duration": "3:36",
+    "artist_browse_id": "UCQhTOLdh34RhlWM3RuMEWjg"
+  },
+  {
+    "type": "song",
+    "title": "Love Is A Drug (Mixed) (feat. Anne Gudrun)",
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/nWjXKpqKbYXHcPeduRqz6TDMgmUqbH8YcxXfByyvsDH5hxoyBZkQGmEQht2SARqUuOr-9lOvb16m6Cdn=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/nWjXKpqKbYXHcPeduRqz6TDMgmUqbH8YcxXfByyvsDH5hxoyBZkQGmEQht2SARqUuOr-9lOvb16m6Cdn=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ],
+    "author": "Armin van Buuren",
+    "url": "https://music.youtube.com/watch?v=Xe_-XNXn1I4&list=undefined",
+    "id": "Xe_-XNXn1I4",
+    "album": "Live at Ultra Music Festival Miami 2023 (Mainstage) [Highlights]",
+    "album_browse_id": "MPREb_Qqu9qrMxOBJ",
+    "duration": "3:38",
+    "artist_browse_id": "UCAeLFBCQS7FvI8PvBrWvSBg"
+  },
+  {
+    "type": "video",
+    "title": "Armin van Buuren live at A State of Trance London, Silverworks Island",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/j08S9DZfWTs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n1WHgZj9Lu8GDgM27B9EP_9zHJaw",
+        "width": 400,
+        "height": 225
+      }
+    ],
+    "author": "DJ Mag",
+    "url": "https://music.youtube.com/watch?v=j08S9DZfWTs&list=undefined",
+    "id": "j08S9DZfWTs",
+    "views": "534K views",
+    "duration": "1:28:59"
+  },
+  {
+    "type": "video",
+    "title": "Armin van Buuren | Tomorrowland 2023",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/LQn5QvrZP5s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3m4Wj5XzstHuXraol_yHjYMEvR_qQ",
+        "width": 400,
+        "height": 225
+      }
+    ],
+    "author": "Tomorrowland",
+    "url": "https://music.youtube.com/watch?v=LQn5QvrZP5s&list=undefined",
+    "id": "LQn5QvrZP5s",
+    "views": "992K views",
+    "duration": "3:02:51"
+  },
+  {
+    "type": "video",
+    "title": "Armin van Buuren live at Ushuaïa, Ibiza 2023",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/l-TUrm26VzQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lb2LnEPpHZ-YJf28hKxMGyQBuC4w",
+        "width": 400,
+        "height": 225
+      }
+    ],
+    "author": "Armin van Buuren",
+    "url": "https://music.youtube.com/watch?v=l-TUrm26VzQ&list=undefined",
+    "id": "l-TUrm26VzQ",
+    "views": "517K views",
+    "duration": "2:27:45"
+  },
+  {
+    "type": "album",
+    "title": "A State of Trance, Ibiza 2023 (Mixed by Armin van Buuren)",
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/uMsF2ocAoA9dAnWv83V670aYlLkwYOnXT9s4wILyChPvZS5w7FczZUqW9nPg3exhHWtrP_0IuW9hXOaT=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/uMsF2ocAoA9dAnWv83V670aYlLkwYOnXT9s4wILyChPvZS5w7FczZUqW9nPg3exhHWtrP_0IuW9hXOaT=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/uMsF2ocAoA9dAnWv83V670aYlLkwYOnXT9s4wILyChPvZS5w7FczZUqW9nPg3exhHWtrP_0IuW9hXOaT=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/uMsF2ocAoA9dAnWv83V670aYlLkwYOnXT9s4wILyChPvZS5w7FczZUqW9nPg3exhHWtrP_0IuW9hXOaT=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ],
+    "author": "Armin van Buuren",
+    "url": "https://music.youtube.com/browse/MPREb_V6rYSiHMXkZ",
+    "year": "2023"
+  },
+  {
+    "type": "album",
+    "title": "ASOT 1139 - A State of Trance, Episode 1139",
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/HLroa4i4O9GLqIU0bF_19oDIkratra81scSH6cnWrrSrJyda3lQh99y_XX2Im-G73JLLr9-urC4b2XTs=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/HLroa4i4O9GLqIU0bF_19oDIkratra81scSH6cnWrrSrJyda3lQh99y_XX2Im-G73JLLr9-urC4b2XTs=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/HLroa4i4O9GLqIU0bF_19oDIkratra81scSH6cnWrrSrJyda3lQh99y_XX2Im-G73JLLr9-urC4b2XTs=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/HLroa4i4O9GLqIU0bF_19oDIkratra81scSH6cnWrrSrJyda3lQh99y_XX2Im-G73JLLr9-urC4b2XTs=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ],
+    "author": "Armin van Buuren",
+    "url": "https://music.youtube.com/browse/MPREb_UkY26N9Sqax",
+    "year": "2023"
+  },
+  {
+    "type": "album",
+    "title": "A State of Trance 2023 (Mixed by Armin van Buuren)",
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/cPhRieu2SqdNu4by8dohRmjk3G14a7k6dr3s3-QWOByp_ypfrSOYYc-GM_5cLAA9Hrfnoit9a4dHL8yNRw=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/cPhRieu2SqdNu4by8dohRmjk3G14a7k6dr3s3-QWOByp_ypfrSOYYc-GM_5cLAA9Hrfnoit9a4dHL8yNRw=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/cPhRieu2SqdNu4by8dohRmjk3G14a7k6dr3s3-QWOByp_ypfrSOYYc-GM_5cLAA9Hrfnoit9a4dHL8yNRw=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/cPhRieu2SqdNu4by8dohRmjk3G14a7k6dr3s3-QWOByp_ypfrSOYYc-GM_5cLAA9Hrfnoit9a4dHL8yNRw=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ],
+    "author": "Armin van Buuren",
+    "url": "https://music.youtube.com/browse/MPREb_2IRGt7sku9p",
+    "year": "2023"
+  },
+  {
+    "type": "album",
+    "title": "Presenting Armin van Buuren",
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/q_NCulvHAKeTkhrmkKvEUkSd0h4Wkqi4-oES5S8l0bp1twJHmiWCq0IpZtIH59YLWomv_I-mAWbY-Do=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/q_NCulvHAKeTkhrmkKvEUkSd0h4Wkqi4-oES5S8l0bp1twJHmiWCq0IpZtIH59YLWomv_I-mAWbY-Do=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/q_NCulvHAKeTkhrmkKvEUkSd0h4Wkqi4-oES5S8l0bp1twJHmiWCq0IpZtIH59YLWomv_I-mAWbY-Do=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/q_NCulvHAKeTkhrmkKvEUkSd0h4Wkqi4-oES5S8l0bp1twJHmiWCq0IpZtIH59YLWomv_I-mAWbY-Do=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ],
+    "author": "YouTube Music",
+    "url": "https://music.youtube.com/browse/VLRDCLAK5uy_nTodbmSMEYw1-dGX0v_fedIN_A5XM6kF0",
+    "year": "39 songs"
+  },
+  {
+    "type": "album",
+    "title": "Armin van Buuren Singles",
+    "thumbnails": [
+      {
+        "url": "https://yt3.ggpht.com/yUyPtoduj9jVxvNKr74PAz32l4Or-ftX0BK8oCvFi5PfBMTBYAPIafIrdYMsdRFhFN46poXugqrS=s192",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "url": "https://yt3.ggpht.com/yUyPtoduj9jVxvNKr74PAz32l4Or-ftX0BK8oCvFi5PfBMTBYAPIafIrdYMsdRFhFN46poXugqrS=s576",
+        "width": 576,
+        "height": 576
+      },
+      {
+        "url": "https://yt3.ggpht.com/yUyPtoduj9jVxvNKr74PAz32l4Or-ftX0BK8oCvFi5PfBMTBYAPIafIrdYMsdRFhFN46poXugqrS=s1200",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "author": "Karl - Heinz Raafkes",
+    "url": "https://music.youtube.com/browse/VLPLeed_K5VWKfurlVjcKmdA_0ifHdeN9j9w",
+    "year": "40K views"
+  },
+  {
+    "type": "album",
+    "title": "Armin van Buuren - Balance [Track by Track]",
+    "thumbnails": [
+      {
+        "url": "https://yt3.ggpht.com/F5HOlkb4ZIpwTgLDM-0--5phqJDsYrIp1fCOFXHJ4HMJ4sbnBLM6mX-d5QDJOUy_dbBFyesLQl8=s192",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "url": "https://yt3.ggpht.com/F5HOlkb4ZIpwTgLDM-0--5phqJDsYrIp1fCOFXHJ4HMJ4sbnBLM6mX-d5QDJOUy_dbBFyesLQl8=s576",
+        "width": 576,
+        "height": 576
+      },
+      {
+        "url": "https://yt3.ggpht.com/F5HOlkb4ZIpwTgLDM-0--5phqJDsYrIp1fCOFXHJ4HMJ4sbnBLM6mX-d5QDJOUy_dbBFyesLQl8=s1200",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "author": "Armin van Buuren",
+    "url": "https://music.youtube.com/browse/VLPL0cWlOyqP6_NGo5Dhj0A4zUwfeMoSO-ha",
+    "year": "543K views"
+  },
+  {
+    "type": "album",
+    "title": "Intense (The More Intense Edition) - by Armin van Buuren",
+    "thumbnails": [
+      {
+        "url": "https://yt3.ggpht.com/nONdXnWNFQs4UJVJ7-msd8VNWcOjK-EMXObp2speqfBzv-DS1bi2EUCYxck5Il0LNRAmwKHpmxI=s192",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "url": "https://yt3.ggpht.com/nONdXnWNFQs4UJVJ7-msd8VNWcOjK-EMXObp2speqfBzv-DS1bi2EUCYxck5Il0LNRAmwKHpmxI=s576",
+        "width": 576,
+        "height": 576
+      },
+      {
+        "url": "https://yt3.ggpht.com/nONdXnWNFQs4UJVJ7-msd8VNWcOjK-EMXObp2speqfBzv-DS1bi2EUCYxck5Il0LNRAmwKHpmxI=s1200",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "author": "Armin van Buuren",
+    "url": "https://music.youtube.com/browse/VLPL0cWlOyqP6_MbDgLpyOFGwZE7rXvBZQCN",
+    "year": "943K views"
+  },
+  {
+    "type": "artist",
+    "title": "Armada Music TV",
+    "thumbnails": [
+      {
+        "url": "https://yt3.googleusercontent.com/lIiJiEOOWe_yfNZoP3_0lBg2zsBjg7hJOG7NnBMlBu0yBIU6s15N6swyyRGbrVd1mzh0VNXG6g=w60-c-h60-k-c0x00ffffff-no-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://yt3.googleusercontent.com/lIiJiEOOWe_yfNZoP3_0lBg2zsBjg7hJOG7NnBMlBu0yBIU6s15N6swyyRGbrVd1mzh0VNXG6g=w120-c-h120-k-c0x00ffffff-no-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ],
+    "subs": "Artist",
+    "url": "https://music.youtube.com/browse/UCGZXYc32ri4D0gSLPf2pZXQ"
+  },
+  {
+    "type": "artist",
+    "title": "Armin van Buuren ASOT Radio",
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/eZTTj1VIj1V9MhksHo1y7FbrPCG0LzWF5053SOVdoBCyC2XL7mkzDCCJUznXHz2cbJ-RUb_mW7oXWeEN=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/eZTTj1VIj1V9MhksHo1y7FbrPCG0LzWF5053SOVdoBCyC2XL7mkzDCCJUznXHz2cbJ-RUb_mW7oXWeEN=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ],
+    "subs": "Artist",
+    "url": "https://music.youtube.com/browse/UC3NXh9r23rQO4jVm_P3besw"
+  },
+  {
+    "type": "artist",
+    "title": "W&W",
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/WyRbgpGgi-Ii1Ko50dc-CqBLLu3KoIoCL7UepuqxJpe1GgckLYmvcMI7cM9oNfy3XaT_jH09sLn1hxk=w60-h60-p-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/WyRbgpGgi-Ii1Ko50dc-CqBLLu3KoIoCL7UepuqxJpe1GgckLYmvcMI7cM9oNfy3XaT_jH09sLn1hxk=w120-h120-p-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ],
+    "subs": "Artist",
+    "url": "https://music.youtube.com/browse/UCuM1D5B3L7EB2SG9jWwje6A"
+  }
+]
